@@ -54,6 +54,7 @@ public class JdbcSinkConnector extends SinkConnector {
       configs.add(configProps);
     }
     return configs;
+    // dummy
   }
 
   @Override
